@@ -8,8 +8,8 @@
 
 *Deterministic · Auditable · Extensible*
 
-[![MIT License](https://img.shields.io/badge/core-MIT-00D4FF?style=flat-square)](https://github.com/Run-IQ/core/blob/main/LICENSE)
-[![MIT License](https://img.shields.io/badge/plugin--sdk-MIT-00D4FF?style=flat-square)](https://github.com/Run-IQ/plugin-sdk/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/core-MIT-00D4FF?style=flat-square)](https://github.com/Run-IQ/core/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/plugin--sdk-MIT-00D4FF?style=flat-square)](https://github.com/Run-IQ/plugin-sdk/blob/master/LICENSE)
 [![Source Available](https://img.shields.io/badge/plugins-Source--Available-f59e0b?style=flat-square)](https://run-iq.org/pricing)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square)](https://www.typescriptlang.org/)
 [![Website](https://img.shields.io/badge/run--iq.org-→-0d1528?style=flat-square&logo=globe)](https://run-iq.org)
@@ -250,12 +250,13 @@ Run-IQ/cli             ← Local rule testing
 - [x] Core engine — pipeline, snapshot, DSL registry
 - [x] JSONLogic DSL evaluator
 - [x] Plugin SDK — BasePlugin, BaseModel, PluginTester
-- [ ] `@run-iq/plugin-fiscal` — fiscal domain, West Africa (in progress)
-- [ ] `@run-iq/plugin-payroll` — payroll domain
+- [x] `@run-iq/plugin-fiscal` — fiscal domain, West Africa
+- [ ] `@run-iq/plugin-payroll` — payroll domain (in progress)
 - [ ] `@run-iq/server` — HTTP REST wrapper
 - [ ] `@run-iq/cli` — command-line tool
 - [ ] `@run-iq/dsl-cel` — CEL evaluator
 - [ ] `@run-iq/simulation` — hypothetical rule simulation engine
+- [ ]  `@run-iq/mcp-server`
 - [ ] Community plugin registry at run-iq.org
 
 ---
