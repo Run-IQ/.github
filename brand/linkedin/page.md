@@ -2,7 +2,7 @@
 
 Images:
 
-- `logo.png`: 1000×1000, square.
+- `logo.png`: 1000×1000, square, the mark filling about two thirds so it stays readable at small sizes (source `logo.html`).
 - `cover.png`: 4512×764, the 1128×191 ratio LinkedIn uses for company pages. The left side stays empty because LinkedIn places the logo over it.
 
 ## Fields
