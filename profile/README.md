@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Run-IQ/.github/main/profile/logo.png" width="120" alt="Run-IQ" />
+<img src="https://raw.githubusercontent.com/Run-IQ/.github/main/profile/banner.png" alt="Run-IQ: decisions you can prove" />
 
-# Run-IQ
-
-**A decision engine for regulated domains.**
-
-[run-iq.io](https://run-iq.io)
+**A decision engine for regulated domains.** · [run-iq.io](https://run-iq.io)
 
 </div>
 
