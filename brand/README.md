@@ -9,7 +9,8 @@ The mark is a loop of three steps: input, rules and decision. The blue node is t
 | `avatar-dark.svg`, `logo-dark.png`, `logo-light.png` | Square logo, 1000 px. |
 | `favicon.svg` | Browser icon. |
 | `banner.png` (2400 × 600), `banner-linkedin.png` (3168 × 792) | Banners. |
-| `social-preview.png` (1280 × 640) | Repository social preview. |
+| `social-preview.png` (1280 × 640) | Generic social preview. |
+| `social/<repo>.png` (1280 × 640) | Social preview of each public repository (`dot-github.png` for `.github`). |
 | `loader.html` | Loading animation: the loop breathes and turns a third, then the decision slides back to the top. |
 
 ## Colours
